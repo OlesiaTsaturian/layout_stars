@@ -1,0 +1,9 @@
+/* add styles here */
+
+@import 'bloks/stars.css';
+@import 'bloks/star.css';
+
+body {
+  margin: 0;
+  padding: 0;
+}
