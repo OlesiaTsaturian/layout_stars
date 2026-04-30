@@ -1,7 +1,7 @@
 /* add styles here */
 
-@import 'bloks/stars.css';
-@import 'bloks/star.css';
+@import 'blocks/stars.css';
+@import 'blocks/stars__star.css';
 
 body {
   margin: 0;
